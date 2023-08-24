@@ -1,0 +1,8 @@
+html
+style
+body
+div
+table
+p
+hr
+br
